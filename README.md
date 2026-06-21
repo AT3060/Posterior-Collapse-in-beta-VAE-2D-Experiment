@@ -1,6 +1,5 @@
 # β-VAE Numerical Experiment
-
-Numerical experiments comparing standard β-VAE and Free-Bits β-VAE
+There are two experiments in the ß-VAE frame, which are the standard ß-VAE and the Free-BiteS ß-VAE. The core concept of these experiments is how these two frames behave with the phenomenon of posterior collapse affected by the value of beta.
 on 2D synthetic datasets (Noisy Moons, Gaussian Clusters).
 
 ## Files
